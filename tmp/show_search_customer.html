@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{$title}</title>
+        <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="/css/bootstrap.css" rel="stylesheet" media="screen">
+        <link href="/css/show_sales.css" rel="stylesheet" media="screen">
+    </head>
+    
+     <body>
+        <form action="do_search_customer.php"  method="POST">
+             <tr>
+                <td>會員編號：<input type="text" name="customer_id"></td>
+                <td>姓名：<input type="text" name="name"></td>
+                <td>地址：<input type="text" name="add"></td>
+                <td>性別：<input type="radio" name="sex" value="1">男
+                <input type="radio" name="sex" value="0"/> 女 </td>
+                
+            </tr></br>
+            <tr>
+                <td>行動電話：<input type="text" name="cell"></td>
+                <td>出生年月日：<input type="text" name="birth"></td>
+                <td>E-mail：<input type="text" name="email"></td>
+            </tr>
+            <br>
+                <input type="submit" value="搜尋"/>
+        </form>    
+ </body>
+ </html>

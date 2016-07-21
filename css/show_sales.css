@@ -1,0 +1,184 @@
+/*導航列*/
+.navbar-default {
+  background-color: #9F0050;
+  border-color: #9F0050;
+}
+
+.navbar-default .navbar-brand {
+  color: #FFF;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #5e5e5e;
+  background-color: transparent;
+}
+
+.nav-a:hover,
+.nav-a:focus {
+  color: #333;
+  background-color: transparent;
+}
+
+
+
+/*導航列連結*/
+.navbar-default .navbar-nav  > li > a {  
+  color: #FFF;
+}
+
+.nav-a {  
+  color: #FFF;
+}
+
+.navbar-default .navbar-text {
+  color: #FFF;
+}
+
+.navbar-nav > form > li > a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    float: left;
+    margin: 0;
+  }
+  .navbar-nav > form > li {
+    float: left;
+  }
+  .navbar-nav > form > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  .navbar-nav .open .dropdown-menu > form > li > a,
+  .navbar-nav .open .dropdown-menu .dropdown-header {
+    padding: 5px 15px 5px 25px;
+  }
+  .navbar-nav .open .dropdown-menu > form > li > a {
+    line-height: 20px;
+  }
+  .navbar-nav .open .dropdown-menu > form > li > a:hover,
+  .navbar-nav .open .dropdown-menu > form > li > a:focus {
+    background-image: none;
+  }
+}
+
+input[type=text] {
+  
+  height:30px;
+  padding: 7px 5px;
+  font-size: 12px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  
+  
+}
+input[type=submit]:hover{
+  background-color: #8C0044;
+}
+
+
+.navbar-default .navbar-title {
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  color:#FFF;
+}
+
+.container > .navbar-header,
+.container-fluid > .navbar-header,
+.container > .navbar-collapse,
+.container-fluid > .navbar-collapse {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+body { 
+  padding-bottom: 50px;
+}
+
+.bread {
+   padding-top: 50px;
+}
+
+.table1 > tr > td , th {
+    padding: 10px;
+    text-align: center;
+}
+
+.t1{
+  padding: 10px;
+  text-align: right;
+  height:15%;
+}
+
+.hovertable{
+  width:80%;
+  text-align: right;
+    margin-left:10%; 
+border: 1px solid #ddd;
+}
+
+.hovertable tr:first-child{
+  font-style: bold;
+  font-size:18px;
+}
+
+
+.hovertable tr:nth-child(odd){
+	background-color:#FFF;
+	}
+	
+	.hovertable tr:nth-child(even){
+	background-color:#f9f9f9;
+	}
+	
+.hovertable tr:not(:first-child):hover{
+  background-color:#FFB8B8;
+}
+
+.hovertable  tr{
+  line-height:30px;
+}
+
+.hovertable  td{
+  width:20%;
+}
+.nav-table {
+  width:100%
+}
+  
+.nav-table > tr > td {
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
+  float: left;
+}
+
+
+
+
+

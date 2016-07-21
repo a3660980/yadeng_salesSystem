@@ -1,0 +1,175 @@
+[25-May-2016 17:21:41 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:21:41 UTC] PHP Stack trace:
+[25-May-2016 17:21:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:07 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:07 UTC] PHP Stack trace:
+[25-May-2016 17:22:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:07 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:07 UTC] PHP Stack trace:
+[25-May-2016 17:22:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:08 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:08 UTC] PHP Stack trace:
+[25-May-2016 17:22:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:08 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:08 UTC] PHP Stack trace:
+[25-May-2016 17:22:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:08 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:08 UTC] PHP Stack trace:
+[25-May-2016 17:22:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:09 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:09 UTC] PHP Stack trace:
+[25-May-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:09 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:09 UTC] PHP Stack trace:
+[25-May-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:09 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:09 UTC] PHP Stack trace:
+[25-May-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:09 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:09 UTC] PHP Stack trace:
+[25-May-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:09 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:09 UTC] PHP Stack trace:
+[25-May-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:10 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:10 UTC] PHP Stack trace:
+[25-May-2016 17:22:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:10 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:10 UTC] PHP Stack trace:
+[25-May-2016 17:22:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:46 UTC] PHP Warning:  include(APP_PATH/includes/mysql.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/login/do_login.php on line 2
+[25-May-2016 17:22:46 UTC] PHP Stack trace:
+[25-May-2016 17:22:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:46 UTC] PHP Warning:  include(): Failed opening 'APP_PATH/includes/mysql.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/login/do_login.php on line 2
+[25-May-2016 17:22:46 UTC] PHP Stack trace:
+[25-May-2016 17:22:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[25-May-2016 17:22:46 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/ubuntu/workspace/html/login/do_login.php on line 5
+[25-May-2016 17:22:46 UTC] PHP Stack trace:
+[25-May-2016 17:22:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/login/do_login.php:0
+[27-May-2016 09:20:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/ubuntu/workspace/includes/mysql.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/includes/mysql.php(9): PDO->__construct('mysql:host=59.1...', 'yadeng', 'xCLqAP5hRs3dGv9...')
+#1 /home/ubuntu/workspace/html/Sales/sales_add.php(3): Database::initDB()
+#2 {main}
+  thrown in /home/ubuntu/workspace/includes/mysql.php on line 9
+[27-May-2016 09:20:33 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/ubuntu/workspace/includes/mysql.php on line 9
+[27-May-2016 09:20:33 UTC] PHP Stack trace:
+[27-May-2016 09:20:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/sales_add.php:0
+[27-May-2016 09:20:33 UTC] PHP   2. Database::initDB() /home/ubuntu/workspace/html/Sales/sales_add.php:3
+[27-May-2016 09:20:33 UTC] PHP   3. PDO->__construct() /home/ubuntu/workspace/includes/mysql.php:9
+[27-May-2016 09:20:33 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=2322 in /home/ubuntu/workspace/includes/mysql.php on line 9
+[27-May-2016 09:20:33 UTC] PHP Stack trace:
+[27-May-2016 09:20:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/sales_add.php:0
+[27-May-2016 09:20:33 UTC] PHP   2. Database::initDB() /home/ubuntu/workspace/html/Sales/sales_add.php:3
+[27-May-2016 09:20:33 UTC] PHP   3. PDO->__construct() /home/ubuntu/workspace/includes/mysql.php:9
+[27-May-2016 09:20:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2006] MySQL server has gone away' in /home/ubuntu/workspace/includes/mysql.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/includes/mysql.php(9): PDO->__construct('mysql:host=59.1...', 'yadeng', 'xCLqAP5hRs3dGv9...')
+#1 /home/ubuntu/workspace/html/Sales/sales_add.php(3): Database::initDB()
+#2 {main}
+  thrown in /home/ubuntu/workspace/includes/mysql.php on line 9
+[27-May-2016 09:20:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/ubuntu/workspace/includes/mysql.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/includes/mysql.php(9): PDO->__construct('mysql:host=59.1...', 'yadeng', 'xCLqAP5hRs3dGv9...')
+#1 /home/ubuntu/workspace/html/Sales/sales_add.php(3): Database::initDB()
+#2 {main}
+  thrown in /home/ubuntu/workspace/includes/mysql.php on line 9
+[27-May-2016 09:20:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/ubuntu/workspace/includes/mysql.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/includes/mysql.php(9): PDO->__construct('mysql:host=59.1...', 'yadeng', 'xCLqAP5hRs3dGv9...')
+#1 /home/ubuntu/workspace/html/Sales/sales_add.php(3): Database::initDB()
+#2 {main}
+  thrown in /home/ubuntu/workspace/includes/mysql.php on line 9
+[02-Jun-2016 16:00:47 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 16
+[02-Jun-2016 16:00:47 UTC] PHP Stack trace:
+[02-Jun-2016 16:00:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[02-Jun-2016 16:01:11 UTC] PHP Warning:  include(/include/mysql.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 2
+[02-Jun-2016 16:01:11 UTC] PHP Stack trace:
+[02-Jun-2016 16:01:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[02-Jun-2016 16:01:11 UTC] PHP Warning:  include(): Failed opening '/include/mysql.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 2
+[02-Jun-2016 16:01:11 UTC] PHP Stack trace:
+[02-Jun-2016 16:01:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[02-Jun-2016 16:01:11 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 17
+[02-Jun-2016 16:01:11 UTC] PHP Stack trace:
+[02-Jun-2016 16:01:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[02-Jun-2016 16:01:22 UTC] PHP Warning:  include(../../include/mysql.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 2
+[02-Jun-2016 16:01:22 UTC] PHP Stack trace:
+[02-Jun-2016 16:01:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[02-Jun-2016 16:01:22 UTC] PHP Warning:  include(): Failed opening '../../include/mysql.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 2
+[02-Jun-2016 16:01:22 UTC] PHP Stack trace:
+[02-Jun-2016 16:01:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[02-Jun-2016 16:01:22 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 17
+[02-Jun-2016 16:01:22 UTC] PHP Stack trace:
+[02-Jun-2016 16:01:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[04-Jun-2016 17:19:14 UTC] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 44
+[04-Jun-2016 17:19:14 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[04-Jun-2016 17:21:14 UTC] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 44
+[04-Jun-2016 17:21:14 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[04-Jun-2016 17:22:04 UTC] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 44
+[04-Jun-2016 17:22:04 UTC] PHP Stack trace:
+[04-Jun-2016 17:22:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[05-Jun-2016 15:03:43 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 17
+[05-Jun-2016 15:03:43 UTC] PHP Stack trace:
+[05-Jun-2016 15:03:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[05-Jun-2016 15:05:32 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 17
+[05-Jun-2016 15:05:32 UTC] PHP Stack trace:
+[05-Jun-2016 15:05:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[05-Jun-2016 15:07:40 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 17
+[05-Jun-2016 15:07:40 UTC] PHP Stack trace:
+[05-Jun-2016 15:07:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[05-Jun-2016 15:09:36 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 17
+[05-Jun-2016 15:09:36 UTC] PHP Stack trace:
+[05-Jun-2016 15:09:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[05-Jun-2016 15:12:47 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/html/Sales/do_add_sales.php on line 17
+[05-Jun-2016 15:12:47 UTC] PHP Stack trace:
+[05-Jun-2016 15:12:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Sales/do_add_sales.php:0
+[05-Jun-2016 17:12:24 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Product/search.php on line 20
+[05-Jun-2016 17:12:25 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Product/search.php on line 20
+[05-Jun-2016 17:12:26 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Product/search.php on line 20
+[05-Jun-2016 17:12:28 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Product/search.php on line 20
+[05-Jun-2016 17:12:29 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Product/search.php on line 20
+[05-Jun-2016 17:12:30 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Product/search.php on line 20
+[05-Jun-2016 17:12:31 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Product/search.php on line 20
+[05-Jun-2016 17:14:33 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Customer/search.php on line 20
+[05-Jun-2016 17:14:34 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ']' in /home/ubuntu/workspace/html/Customer/search.php on line 20
+[05-Jun-2016 17:20:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/html/Customer/search.php on line 20
+[05-Jun-2016 17:20:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/html/Customer/search.php on line 20
+[05-Jun-2016 17:20:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/html/Customer/search.php on line 20
+[05-Jun-2016 17:24:24 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 26
+[05-Jun-2016 17:24:24 UTC] PHP Stack trace:
+[05-Jun-2016 17:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 17:24:24 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:26
+[05-Jun-2016 18:46:26 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 26
+[05-Jun-2016 18:46:26 UTC] PHP Stack trace:
+[05-Jun-2016 18:46:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 18:46:26 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:26
+[05-Jun-2016 18:51:53 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 26
+[05-Jun-2016 18:51:53 UTC] PHP Stack trace:
+[05-Jun-2016 18:51:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 18:51:53 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:26
+[05-Jun-2016 18:54:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 26
+[05-Jun-2016 18:54:37 UTC] PHP Stack trace:
+[05-Jun-2016 18:54:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 18:54:37 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:26
+[05-Jun-2016 18:58:43 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 26
+[05-Jun-2016 18:58:43 UTC] PHP Stack trace:
+[05-Jun-2016 18:58:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 18:58:43 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:26
+[05-Jun-2016 19:00:06 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 28
+[05-Jun-2016 19:00:06 UTC] PHP Stack trace:
+[05-Jun-2016 19:00:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 19:00:06 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:28
+[05-Jun-2016 19:00:06 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 28
+[05-Jun-2016 19:00:06 UTC] PHP Stack trace:
+[05-Jun-2016 19:00:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 19:00:06 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:28
+[05-Jun-2016 19:00:07 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 28
+[05-Jun-2016 19:00:07 UTC] PHP Stack trace:
+[05-Jun-2016 19:00:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 19:00:07 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:28
+[05-Jun-2016 19:00:10 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ubuntu/workspace/html/Customer/search.php on line 28
+[05-Jun-2016 19:00:10 UTC] PHP Stack trace:
+[05-Jun-2016 19:00:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/Customer/search.php:0
+[05-Jun-2016 19:00:10 UTC] PHP   2. join() /home/ubuntu/workspace/html/Customer/search.php:28
